@@ -1,0 +1,30 @@
+.login_label{
+	width:90px;
+	color: #fff;
+    background-color: #17a2b8;
+    border-color: #17a2b8;
+    
+    font-size: 15px;
+    text-align:center;
+    height:30px;
+    border-style: solid;
+  	margin: 5px;
+    
+}
+
+
+.login_submit{
+	width:70px;
+	color: #fff;
+    background-color: #17a2b8;
+    border-color: #117888;
+    
+    font-size: 15px;
+    text-align:center;
+    height:30px;
+    border-style: solid;
+  	margin: 5px;
+    
+}
+
+
