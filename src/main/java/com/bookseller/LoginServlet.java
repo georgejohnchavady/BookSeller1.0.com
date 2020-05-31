@@ -18,7 +18,9 @@ import org.springframework.web.bind.annotation.ResponseBody;
 public class LoginServlet{
 	@Autowired
 	private UserValidationService userValidationService;
-	DAO dao = new DAO();
+	
+	@Autowired
+	private DAO dao;
 	
 	@RequestMapping(value = "/login.do",method = RequestMethod.GET)	
 	public String login() throws SQLException{

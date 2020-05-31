@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [31/May/2020:02:24:40 +0100] "GET /login.do HTTP/1.1" 200 1397 http-bio-8080-exec-1 123
+0:0:0:0:0:0:0:1 - - [31/May/2020:02:24:40 +0100] "GET /css/login.css HTTP/1.1" 304 - http-bio-8080-exec-2 8
+0:0:0:0:0:0:0:1 - - [31/May/2020:02:24:41 +0100] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-8080-exec-3 10
+0:0:0:0:0:0:0:1 - - [31/May/2020:02:24:43 +0100] "POST /login.do HTTP/1.1" 200 1787 http-bio-8080-exec-4 402
+0:0:0:0:0:0:0:1 - - [31/May/2020:02:24:43 +0100] "GET /css/homepage.css HTTP/1.1" 304 - http-bio-8080-exec-5 4
+0:0:0:0:0:0:0:1 - - [31/May/2020:02:24:44 +0100] "GET /login.do HTTP/1.1" 200 1397 http-bio-8080-exec-6 8
+0:0:0:0:0:0:0:1 - - [31/May/2020:02:24:53 +0100] "POST /login.do HTTP/1.1" 200 1787 http-bio-8080-exec-7 118
+0:0:0:0:0:0:0:1 - - [31/May/2020:02:24:55 +0100] "GET /login.do HTTP/1.1" 200 1397 http-bio-8080-exec-8 10
